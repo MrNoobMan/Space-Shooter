@@ -1,0 +1,7 @@
+canvas{
+	position: absolute;
+	top: 50px;
+	left: 200px;
+	border: black Thick Solid;
+	cursor: url(pics/cursor.png), auto;
+}
